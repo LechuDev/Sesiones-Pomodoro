@@ -1,0 +1,35 @@
+
+## 📅 **Registro Pomodoro — {{date}}**
+
+### 🕒 Jornada
+
+- **Inicio:** `    `
+- **Fin:** `    `
+- **Total Pomodoros:** `  `
+- **Tareas completadas:** `   `
+
+---
+
+### ✅ **To-Do del Día**
+
+- [ ] `    `
+
+### 🍅 **Sesiones Pomodoro + Descansos**
+
+| #   | Tipo     | Inicio | Fin | Duración | Actividades | Estado | Notas |
+| --- | -------- | ------ | --- | -------- | ----------- | ------ | ----- |
+| 1   | Pomodoro |        |     |          |             |        |       |
+| 1B  | Descanso |        |     |          |             |        |       |
+| 2   | Pomodoro |        |     |          |             |        |       |
+| 2B  | Descanso |        |     |          |             |        |       |
+| 3   | Pomodoro |        |     |          |             |        |       |
+| 3B  | Descanso |        |     |          |             |        |       |
+| 4   | Pomodoro |        |     |          |             |        |       |
+| 4B  | Descanso |        |     |          |             |        |       |
+
+---
+### 🧠 Reflexión del Día
+
+- Energía general: `Media`
+- Distracciones: `Notificaciones, llamada inesperada`
+- Ideas surgidas: `Agregar sección de progreso visual al journal modular`

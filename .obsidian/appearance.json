@@ -1,1 +1,6 @@
-{}
+{
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "cssTheme": "Encore",
+  "accentColor": "#0eb45e"
+}

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc0d0d3ff319125",
+        "id": "51dab05d894979a9",
         "type": "tabs",
         "children": [
           {
-            "id": "dc8c45c3d20e81e0",
+            "id": "43c93b393c46f942",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025/11 - Noviembre/Semana (3)/12-11-2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "12-11-2025"
             }
           }
         ]
@@ -29,6 +33,7 @@
       {
         "id": "5c967bdbe21d0fc8",
         "type": "tabs",
+        "dimension": 33.80035026269702,
         "children": [
           {
             "id": "837ae7bd51374fd3",
@@ -73,8 +78,9 @@
         ]
       },
       {
-        "id": "21d97e9f6b6fa07a",
+        "id": "c257414d1b894b1c",
         "type": "tabs",
+        "dimension": 33.80035026269702,
         "children": [
           {
             "id": "ae06407c8291e138",
@@ -85,12 +91,40 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "9cee38778fa7b732",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "21d97e9f6b6fa07a",
+        "type": "tabs",
+        "dimension": 32.399299474605954,
+        "children": [
+          {
+            "id": "c0e9463add791e05",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.0110321044922
   },
   "right": {
     "id": "9a3934a39670f29d",
@@ -166,30 +200,22 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2025/11 - Noviembre/Semana (3)/12-11-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
-            }
-          },
-          {
-            "id": "9cee38778fa7b732",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Esquema de 12-11-2025"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,11 +226,40 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "vscode-editor:Create Code File": false,
+      "open-vscode:VSCode": false,
+      "obsidian-tamagotchi:Open Tamagotchi": false
     }
   },
-  "active": "dc8c45c3d20e81e0",
+  "active": "c0e9463add791e05",
   "lastOpenFiles": [
-    "Bienvenido.md"
+    "2025/11 - Noviembre/Semana (3)/12-11-2025.md",
+    "Tamagochi/tamagotchi_laugh.png",
+    "Tamagochi/tamagotchi_tripping.png",
+    "Tamagochi/tamagotchi_kissing.png",
+    "Tamagochi/tamagotchi_hungry.png",
+    "Tamagochi/tamagotchi_annoyed.png",
+    "Tamagochi/tamagotchi_happy.png",
+    "Tamagochi/tamagotchi_fed.png",
+    "Tamagochi/tamagotchi_dead.png",
+    "Tamagochi/heart.png",
+    "Tamagochi/forest.png",
+    "Tamagochi",
+    "images",
+    "Plantillas/Plantilla.md",
+    "11-11-2025.md",
+    "Plantillas",
+    "2025/Noviembre/Semana (3)/2025-11-12.md",
+    "2025-W46.md",
+    "2025-W44.md",
+    "2025-11-13.md",
+    "2025/12 - Diciembre/Semana (5)",
+    "2025/12 - Diciembre/Semana (1)",
+    "2025/12 - Diciembre/Semana (3)",
+    "2025/12 - Diciembre/Semana (4)",
+    "2025/12 - Diciembre/Semana (2)",
+    "2025/12 - Diciembre",
+    "2025/Noviembre - copia/Semana (5)"
   ]
 }
