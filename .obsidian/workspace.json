@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025/11 - Noviembre/Semana (3)/12-11-2025.md",
+                "file": "Sesiones Pomodoro/2025/11 - Noviembre/Semana (3)/12-11-2025.md",
                 "mode": "source",
                 "source": false
               },
@@ -33,7 +33,7 @@
       {
         "id": "5c967bdbe21d0fc8",
         "type": "tabs",
-        "dimension": 33.80035026269702,
+        "dimension": 48.42381786339755,
         "children": [
           {
             "id": "837ae7bd51374fd3",
@@ -80,7 +80,7 @@
       {
         "id": "c257414d1b894b1c",
         "type": "tabs",
-        "dimension": 33.80035026269702,
+        "dimension": 19.176882661996498,
         "children": [
           {
             "id": "ae06407c8291e138",
@@ -124,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.0110321044922
+    "width": 204.0110321044922
   },
   "right": {
     "id": "9a3934a39670f29d",
@@ -228,13 +228,17 @@
       "bases:Crear nueva base": false,
       "obsidian-git:Open Git source control": false,
       "vscode-editor:Create Code File": false,
-      "open-vscode:VSCode": false,
-      "obsidian-tamagotchi:Open Tamagotchi": false
+      "open-vscode:VSCode": false
     }
   },
-  "active": "c0e9463add791e05",
+  "active": "43c93b393c46f942",
   "lastOpenFiles": [
-    "2025/11 - Noviembre/Semana (3)/12-11-2025.md",
+    "Plantillas/Plantilla.md",
+    "Sesiones Pomodoro/2025/11 - Noviembre/Semana (3)/12-11-2025.md",
+    "DevBlog/Devblog 1.md",
+    "Plantillas/DevBlog.md",
+    "Sesiones Pomodoro",
+    "DevBlog",
     "Tamagochi/tamagotchi_laugh.png",
     "Tamagochi/tamagotchi_tripping.png",
     "Tamagochi/tamagotchi_kissing.png",
@@ -247,19 +251,16 @@
     "Tamagochi/forest.png",
     "Tamagochi",
     "images",
-    "Plantillas/Plantilla.md",
     "11-11-2025.md",
     "Plantillas",
     "2025/Noviembre/Semana (3)/2025-11-12.md",
     "2025-W46.md",
     "2025-W44.md",
     "2025-11-13.md",
-    "2025/12 - Diciembre/Semana (5)",
-    "2025/12 - Diciembre/Semana (1)",
-    "2025/12 - Diciembre/Semana (3)",
-    "2025/12 - Diciembre/Semana (4)",
-    "2025/12 - Diciembre/Semana (2)",
-    "2025/12 - Diciembre",
-    "2025/Noviembre - copia/Semana (5)"
+    "Sesiones Pomodoro/2025/12 - Diciembre/Semana (5)",
+    "Sesiones Pomodoro/2025/12 - Diciembre/Semana (1)",
+    "Sesiones Pomodoro/2025/12 - Diciembre/Semana (3)",
+    "Sesiones Pomodoro/2025/12 - Diciembre/Semana (4)",
+    "Sesiones Pomodoro/2025/12 - Diciembre/Semana (2)"
   ]
 }

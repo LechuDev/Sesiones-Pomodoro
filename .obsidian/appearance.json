@@ -1,6 +1,7 @@
 {
-  "baseFontSize": 20,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "cssTheme": "Encore",
-  "accentColor": "#0eb45e"
+  "accentColor": "#0eb45e",
+  "showRibbon": true
 }

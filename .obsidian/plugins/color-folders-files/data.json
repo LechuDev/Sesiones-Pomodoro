@@ -1,5 +1,20 @@
 {
-  "styles": {},
+  "styles": {
+    "DevBlog": {
+      "backgroundColor": "#0d585e",
+      "textColor": "#ffffff"
+    },
+    "Sesiones Pomodoro/2025": {
+      "backgroundColor": "#0b345b",
+      "applyToSubfolders": true
+    },
+    "Plantillas": {
+      "backgroundColor": "#850000"
+    },
+    "Sesiones Pomodoro": {
+      "backgroundColor": "#500bb7"
+    }
+  },
   "presets": {},
   "presetOrder": []
 }
